@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.zIndex{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.custom-w{
+    width: 13vw;
+}
+.custom-h{
+    height: 13vh;
+}
+
+.play-h{
+    height: 10vh;
+}
+
+.play-w{
+    width: 5vw;
+}
